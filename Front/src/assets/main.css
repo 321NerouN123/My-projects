@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    width: 100%;
+    min-height: 100%;
+    background: rgb(236, 229, 229);
+    margin: 0;
+}
